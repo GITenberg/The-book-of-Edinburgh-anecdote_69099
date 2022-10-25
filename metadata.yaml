@@ -1,5 +1,8 @@
 _repo: The-book-of-Edinburgh-anecdote_69099
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69099-h/images/cover.jpg
 creator:
   author:
     agent_name: Watt, Francis
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '48476'
     url: http://www.gutenberg.org/2009/agents/48476
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69099#The-book-of-Edinburgh-anecdote
 gutenberg_issued: '2022-10-06'
 identifiers:
   gutenberg: '69099'
